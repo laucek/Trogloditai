@@ -1,0 +1,2 @@
+# Trogloditai
+Technologinio projekto githubas
